@@ -58,4 +58,4 @@ Este projeto simula um chatbot e **não se conecta com APIs externas ou IA**. Id
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome ou Time].
+Desenvolvido por Luan Pires.
